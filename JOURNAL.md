@@ -18,4 +18,8 @@ Once I finshed the schematic, I began populating my PCB. I tried very hard to on
 
 Hours Spent: 3.5 Hrs
 
+## 4th Jan 2026
+
+I began creating my 3D model, starting with the rollers. The intital shape was easy but cretaing the teeth at the edges proved to be more difficult than expected. I discovered new features such as the circular pattern tool which really saved time and helped design the teeth. 
+
 
