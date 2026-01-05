@@ -16,6 +16,6 @@ Once I finshed the schematic, I began populating my PCB. I tried very hard to on
 
 <img width="522" height="540" alt="image" src="https://github.com/user-attachments/assets/0bb54ef9-efb8-443f-a522-b33a184420c9" />
 
-Hours Spent: 4 Hrs
+Hours Spent: 3.5 Hrs
 
 
