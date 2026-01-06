@@ -36,7 +36,7 @@ A conveyer belt that uses an IR sensor to differentiate between coal and present
 | 1x3 pin header           | 1                   | 0.68         | 0.68          | 1x3 pin header                   |           |           |
 | 2x3 pin header           | 1                   | 0.68         | 0.68          | 2x3 pin header                   |           |           |
 | 3D prints                | -                   | -            | 10.00         |                                  |           |           |
-| PCB                      | -                   | -            |               |                                  |           |           |
-| Shipping                 | -                   | -            |               |                                  |           |           |
-If you want:
+| PCB                      | -                   | -            | 5.00          |                                  |           |           |
+| Shipping                 | -                   | -            | 10.36         |                                  |           |           |
+
 
