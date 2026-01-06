@@ -20,6 +20,12 @@ Hours Spent: 3.5 Hrs
 
 ## 4th Jan 2026
 
-I began creating my 3D model, starting with the rollers. The intital shape was easy but cretaing the teeth at the edges proved to be more difficult than expected. I discovered new features such as the circular pattern tool which really saved time and helped design the teeth. 
+I began creating my 3D model, starting with the rollers. The initial shape was easy but cretaing the teeth at the edges proved to be more difficult than expected. I discovered new features such as the circular pattern tool which really saved time and helped design the teeth accurately. I created the teeth to fit with a GT2 timing belt with a width of 6mm. I created the frame with a depth of 7mm to allow for the 608zz bearing to slot in place. I have used tight tolerances in order to make everything force fit instead of using screws ensuring most of the components are 3D printed. I also added a bit of Christmas colour to the rollers :) 
 
+<img width="1255" height="456" alt="image" src="https://github.com/user-attachments/assets/d6873121-9eed-46e8-952a-74ab144c2224" />
 
+<img width="995" height="543" alt="image" src="https://github.com/user-attachments/assets/e0e61bdb-b962-4ef6-8e99-1cc23ef7fd43" />
+
+<img width="1200" height="586" alt="image" src="https://github.com/user-attachments/assets/6ff4afbc-c4b1-40c0-8dfd-0e6eea3414d8" />
+
+Hours Spent: 2Hrs
