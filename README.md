@@ -15,4 +15,5 @@ A conveyer belt that uses an IR sensor to differentiate between coal and present
 
 ## 3D model
 
-<img width="1016" height="453" alt="image" src="https://github.com/user-attachments/assets/c1211d11-58a4-4b24-b49e-061b0bc9b4eb" />
+<img width="1200" height="586" alt="image" src="https://github.com/user-attachments/assets/5d117b70-cd43-4969-ac51-fde1e5e0ecf1" />
+
